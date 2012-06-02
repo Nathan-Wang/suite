@@ -1,0 +1,35 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--4240b0ad:13684cc84b7:-7ffb</id>
+  <name>volcanoes</name>
+  <nativeName>volcanoes</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-68b76edb:123c95ae60d:-7ffe</id>
+  </namespace>
+  <title>volcanoes</title>
+  <description>Contents of file</description>
+  <keywords>
+    <string>features</string>
+    <string>volcanoes</string>
+  </keywords>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>-179.97</minx>
+    <maxx>179.58</maxx>
+    <miny>-77.53</miny>
+    <maxy>71.08</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-179.97</minx>
+    <maxx>179.58</maxx>
+    <miny>-77.53</miny>
+    <maxy>71.08</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--4240b0ad:13684cc84b7:-8000</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+</featureType>

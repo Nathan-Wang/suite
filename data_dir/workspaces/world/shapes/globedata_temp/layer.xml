@@ -1,0 +1,16 @@
+<layer>
+  <name>globedata_temp</name>
+  <id>LayerInfoImpl--4240b0ad:13684cc84b7:-7ffe</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2d72c0d4:123e3a69b74:-8000</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--4240b0ad:13684cc84b7:-7fff</id>
+  </resource>
+  <enabled>true</enabled>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

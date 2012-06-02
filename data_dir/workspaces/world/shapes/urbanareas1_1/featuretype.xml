@@ -1,0 +1,43 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--4240b0ad:13684cc84b7:-7ffd</id>
+  <name>urbanareas1_1</name>
+  <nativeName>urbanareas1_1</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-68b76edb:123c95ae60d:-7ffe</id>
+  </namespace>
+  <title>urbanareas1_1</title>
+  <description>Contents of file</description>
+  <keywords>
+    <string>features</string>
+    <string>urbanareas1_1</string>
+  </keywords>
+  <nativeCRS>GEOGCS[&quot;GCS_WGS_1984&quot;, 
+  DATUM[&quot;D_WGS_1984&quot;, 
+    SPHEROID[&quot;WGS_1984&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Longitude&quot;, EAST], 
+  AXIS[&quot;Latitude&quot;, NORTH]]</nativeCRS>
+  <srs>EPSG:4326</srs>
+  <nativeBoundingBox>
+    <minx>-157.861997684</minx>
+    <maxx>174.76100162</maxx>
+    <miny>-37.8529559541</miny>
+    <maxy>60.1964190983</maxy>
+    <crs>EPSG:4326</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-157.861997684</minx>
+    <maxx>174.76100162</maxx>
+    <miny>-37.8529559541</miny>
+    <maxy>60.1964190983</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--4240b0ad:13684cc84b7:-8000</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+</featureType>

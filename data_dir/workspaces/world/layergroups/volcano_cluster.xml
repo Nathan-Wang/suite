@@ -1,0 +1,30 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--4240b0ad:13684cc84b7:-7fce</id>
+  <name>volcano_cluster</name>
+  <workspace>
+    <id>WorkspaceInfoImpl-68b76edb:123c95ae60d:-7fff</id>
+  </workspace>
+  <layers>
+    <layer>
+      <id>LayerInfoImpl--443f995f:123c9690267:-7ff5</id>
+    </layer>
+    <layer>
+      <id>LayerInfoImpl--4240b0ad:13684cc84b7:-7ffa</id>
+    </layer>
+  </layers>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-182163b8:122807491c4:-8000</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--4240b0ad:13684cc84b7:-7ff7</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-180.0</minx>
+    <maxx>180.0</maxx>
+    <miny>-90.0</miny>
+    <maxy>83.624</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>
